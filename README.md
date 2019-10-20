@@ -5,7 +5,7 @@
 ------------------------------
 ##### We often encounter this Problem when we are making to many request during We
 
-- Create Object 
+### Example
     ```python
         >>> r = Requests.request(request_type='get', url='https://www.youtube.com')
         >>> print(r)
