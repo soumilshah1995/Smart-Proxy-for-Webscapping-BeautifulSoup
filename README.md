@@ -1,7 +1,7 @@
 [![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]
 
 
-![example]example(https://github.com/soumilshah1995/Smart-Proxy-for-Webscapping-BeautifulSoup/blob/master/Proxy.py)
+![example](https://github.com/soumilshah1995/Smart-Proxy-for-Webscapping-BeautifulSoup/blob/master/Proxy.py)
 
 
 
