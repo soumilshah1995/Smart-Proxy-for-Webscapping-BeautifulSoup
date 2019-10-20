@@ -13,4 +13,4 @@
         <Response [200]>
     ```
       
-Well ist That easy to use it 
+Well its That easy to use it 
