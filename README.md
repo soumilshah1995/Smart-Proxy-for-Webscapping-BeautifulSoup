@@ -5,3 +5,6 @@
 - Create Object 
 
         r = Requests.request(request_type='get', url='https://www.youtube.com')
+        print(r)
+      
+Well ist That easy to use it 
