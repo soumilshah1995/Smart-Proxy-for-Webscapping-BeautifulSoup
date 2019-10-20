@@ -1,13 +1,3 @@
-# Smart-Proxy-for-Webscapping-BeautifulSoup
-Smart Proxy for Webscapping BeautifulSoup
-
-# Create a class
-
-proxy = Random_Proxy()
-
-url = 'https://www.youtube.com'
-request_type = "get"
-
-r = proxy.Proxy_Request(url=url, request_type=request_type)
-print(r)
-print(r.text)
+# Proxy for Webscrapping 
+------------------------------
+### We often encounter this Problem when we are making to many request during Webscrapping Out Ip Address is Bloacked use this Module which Generates Random Ip Address for Every Single Web Request Let me Show you a Small Demo 
