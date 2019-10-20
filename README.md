@@ -7,9 +7,9 @@
 
 - Create Object 
     ```python
-        r = Requests.request(request_type='get', url='https://www.youtube.com')
-        print(r)
-        >>> Using Proxy 181.115.168.69:49076
+        >>> r = Requests.request(request_type='get', url='https://www.youtube.com')
+        >>> print(r)
+        Using Proxy 181.115.168.69:49076
         <Response [200]>
     ```
       
