@@ -1,4 +1,4 @@
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/soumilshah1995/Smart-Proxy-for-Webscapping-BeautifulSoup/edit/master/)
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]
 
 
 # Proxy for Webscrapping 
@@ -9,6 +9,8 @@
     ```python
         r = Requests.request(request_type='get', url='https://www.youtube.com')
         print(r)
+        >>> Using Proxy 181.115.168.69:49076
+        <Response [200]>
     ```
       
 Well ist That easy to use it 
