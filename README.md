@@ -1,4 +1,4 @@
-[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)]
+[![license](https://img.shields.io/github/license/mashape/apistatus.svg?maxAge=2592000)](https://github.com/soumilshah1995/Smart-Proxy-for-Webscapping-BeautifulSoup/edit/master/README.md)
 
 
 # Proxy for Webscrapping 
