@@ -1,0 +1,10 @@
+LICENSE
+MANIFEST.in
+README.md
+setup.py
+pyproxywebscrapper.egg-info/PKG-INFO
+pyproxywebscrapper.egg-info/SOURCES.txt
+pyproxywebscrapper.egg-info/dependency_links.txt
+pyproxywebscrapper.egg-info/requires.txt
+pyproxywebscrapper.egg-info/top_level.txt
+smartproxy/smartproxy.py

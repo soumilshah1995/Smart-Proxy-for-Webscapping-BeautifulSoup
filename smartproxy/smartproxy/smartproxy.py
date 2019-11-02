@@ -3,7 +3,8 @@ try:
     import requests
     from bs4 import BeautifulSoup
     import random
-except:
+except Exception as e:
+
     print(" Library Not Found !")
 
 
@@ -73,7 +74,6 @@ class Random_Proxy(object):
 
     def Proxy_Request(self,request_type='get',url='',**kwargs):
         """
-
         :param request_type: GET, POST, PUT
         :param url: URL from which you want to do webscrapping
         :param kwargs: any other parameter you pass
@@ -115,6 +115,6 @@ class Requests(metaclass=MetaClass):
                 pass
 
 
-if __name__ == "__main__":
-    r = Requests.request(request_type='get', url='https://www.youtube.com')
-    print(r)
+# if __name__ == "__main__":
+#     r = Requests.request(request_type='get', url='https://www.youtube.com')
+#     print(r)
